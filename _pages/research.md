@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /minimal-mistakes/research/
+permalink: /research/
 layout: single
 author_profile: true
 ---
