@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-permalink: https://nicolevenus.github.io/minimal-mistakes/teaching/
+permalink: /teaching/
 layout: single
 author_profile: true
 ---
