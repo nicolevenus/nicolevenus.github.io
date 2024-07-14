@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Research"
-    url: /minimal-mistakes/research/
+    url: /research/
   - title: "Teaching"
     url: /teaching/
   - title: "Contact"
