@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-permalink: /teaching/
+permalink: /minimal-mistakes/teaching/
 layout: single
 author_profile: true
 ---
