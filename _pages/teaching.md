@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-permalink: /teaching/
+permalink: https://nicolevenus.github.io/teaching/
 layout: single
 author_profile: true
 ---
