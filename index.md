@@ -1,6 +1,6 @@
 ---
 title: "Welcome!"
-permalink: https://nicolevenus.github.io/
+permalink: /
 layout: single
 author_profile: true
 ---
