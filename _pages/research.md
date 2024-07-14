@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /research/
+permalink: https://nicolevenus.github.io/research/
 layout: single
 author_profile: true
 ---
