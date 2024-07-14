@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-permalink: /contact/
+permalink: https://nicolevenus.github.io/contact/
 layout: single
 author_profile: true
 ---
