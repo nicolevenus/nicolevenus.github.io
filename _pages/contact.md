@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-permalink: /contact/
+permalink: /minimal-mistakes/contact/
 layout: single
 author_profile: true
 ---
