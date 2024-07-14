@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Research"
+    url: https://nicolevenus.github.io/minimal-mistakes/research/
   - title: "Contact"
     url: https://nicolevenus.github.io/minimal-mistakes/contact/
   # - title: "About"
