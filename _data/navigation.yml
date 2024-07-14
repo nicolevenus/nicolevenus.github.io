@@ -2,6 +2,8 @@
 main:
   - title: "Research"
     url: https://nicolevenus.github.io/minimal-mistakes/research/
+  - title: "Teaching"
+    url: https://nicolevenus.github.io/minimal-mistakes/teaching/
   - title: "Contact"
     url: https://nicolevenus.github.io/minimal-mistakes/contact/
   # - title: "About"
