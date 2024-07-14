@@ -3,11 +3,11 @@ main:
   - title: "Home"
   url: https://nicolevenus.github.io/
   - title: "Research"
-    url: https://nicolevenus.github.io/research/
+    url: /research/
   - title: "Teaching"
-    url: https://nicolevenus.github.io/teaching/
+    url: /teaching/
   - title: "Contact"
-    url: https://nicolevenus.github.io/contact/
+    url: /contact/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
