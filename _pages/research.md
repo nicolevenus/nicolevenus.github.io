@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: https://nicolevenus.github.io/minimal-mistakes/research/
+permalink: /research/
 layout: single
 author_profile: true
 ---
