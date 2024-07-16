@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-layout: single
+layout: default
 author_profile: true
 ---
 
