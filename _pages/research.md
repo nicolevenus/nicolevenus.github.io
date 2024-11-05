@@ -7,7 +7,7 @@ author_profile: true
 
 Working papers
 -------------------
-[The Representation of Female Economists on Wikipedia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540744)
+[The Representation of Female Economists on Wikipedia](https://www.dropbox.com/scl/fi/xwntaf78up745d97ij52x/JMP_NVenus.pdf?rlkey=1zyvnuve5beynnaaemlszq5x2&st=zyc3us9p&dl=0)
 
 <sub> This paper is the first to examine the gender gap in the representation of economists on Wikipedia. Based on a large sample of actively-publishing economists, I document that women were 53% less likely to have a biographical entry than men. Conditioning on Wikipedia's notability criteria proxied by a wide set of author characteristics reduces the gender gap to 9%. Over time, this gap closed due to a strong increase in contributions by Wikipedia editors affiliated with initiatives promoting gender equality. Non-affiliated editors, who were over-selecting men in the 2000s, have started selecting subjects in a gender-neutral way since 2011. Furthermore, this paper demonstrates the relevance of representation on Wikipedia by providing the first causal evidence on the impact of having a biographical entry on researchers' news mentions. Using the staggered rollout of a new content translation tool to predict page creations, I show that having a Wikipedia page significantly increases the number of mentions in the news and thereby boosts the visibility of researchers and their work in the public eye. <sub> 
 
