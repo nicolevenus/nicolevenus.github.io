@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Nicole Venus"
   avatar           : "/assets/images/NVenus_passphoto.JPG"
-  bio              : "PhD candidate in Economics"
-  location         : "Lugano, Switzerland"
+  bio              : ""
+  location         : "Switzerland"
   email            :
   links:
     - label: "Email"
