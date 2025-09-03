@@ -116,15 +116,15 @@ author:
   name             : "Nicole Venus"
   avatar           : "/assets/images/NVenus_passphoto.JPG"
   bio              : ""
-  location         : "Switzerland"
+  location         : "Bern, Switzerland"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:nicole.venus@unibe.ch"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://nicolevenus.github.io/"
+      # url: "https://nicolevenus.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/nemo18383912600"
