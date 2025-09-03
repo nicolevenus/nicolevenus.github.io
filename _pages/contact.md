@@ -7,10 +7,10 @@ author_profile: true
 
 [Follow me on X](https://twitter.com/nemo18383912600)
 
-Contact me at nicole[dot]venus[at]usi[dot]ch
+Contact me at nicole[dot]venus[at]unibe[dot]ch
 
-Università della Svizzera italiana (USI) <br>
-Via Giuseppe Buffi 13 <br>
-CH-6900 Lugano TI, Switzerland <br>
+Universität Bern <br>
+Schanzeneckstrasse 1
+3012 Bern, Switzerland <br>
 
-Check out my [institutional page](https://search.usi.ch/en/people/61d134707784d938a07ec3bc2493e0d6/venus-nicole)
+Location: UniS A318
