@@ -10,7 +10,7 @@ author_profile: true
 Contact me at nicole[dot]venus[at]unibe[dot]ch
 
 Universität Bern <br>
-Schanzeneckstrasse 1
+Schanzeneckstrasse 1 <br>
 3012 Bern, Switzerland <br>
 
-Location: UniS A318
+Office: UniS A318
