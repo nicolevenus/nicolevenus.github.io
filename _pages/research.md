@@ -18,7 +18,7 @@ This paper examines the systemic bias against female scholars in Wikipedia conte
 ---
 
 [Women in Editorial Boards: An Investigation of Female Representation in Top Economic Journals](https://nicolevenus.github.io/assets/editor_gender_FunkIriberriVenus.pdf)  
-with [Patricia Funk](https://sites.google.com/site/patriciafelicitasfunk/patricia-funks-research-webpage) and [Nagore Iriberri](https://sites.google.com/site/nagoreiriberri/)
+with [Patricia Funk](https://sites.google.com/site/patriciafelicitasfunk/patricia-funks-research-webpage) and [Nagore Iriberri](https://sites.google.com/site/nagoreiriberri/) 
 
 Revise & Resubmit at the Economic Journal
 
