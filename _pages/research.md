@@ -1,3 +1,9 @@
+--- 
+title: "Research" 
+permalink: /research/ 
+layout: single 
+author_profile: true 
+---
 ## Working papers
 
 [Sources and Consequences of Systemic Content Bias: Evidence from Wikipedia](https://nicolevenus.github.io/assets/NVenus_systemic_content_bias.pdf)
